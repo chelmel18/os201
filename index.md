@@ -1,6 +1,7 @@
 ## Welcome to Michelle's Website
 
-Halo😀😁😄 , perkenalkan saya Michelle Melissa sebagai pemilik dari website ini.
+Halo😀😁😄 
+Perkenalkan saya Michelle Melissa sebagai pemilik dari website ini.
 
 Website ini dibuat untuk memenuhi tugas sekaligus ujian akhir semester (UAS) mata pelajaran Sistem Operasi yang sedang saya ambil pada semester ini.
 
