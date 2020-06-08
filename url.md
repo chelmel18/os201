@@ -6,8 +6,8 @@ permalink: /URLs/
 
 Berikut adalah link yang dapat digunakan untuk mempelajari Sistem Operasi :
 
-1. Website Utama Sistem Operasi : os.vlsm.org
-2. Youtube Playlists OS : https://os.vlsm.org/playlists/
+1. Website Utama Sistem Operasi : [OS.VLSM.ORG](https://os.vlsm.org/)
+2. Youtube Playlists OS : [https://os.vlsm.org/playlists/](https://os.vlsm.org/playlists/)
 3. Membuat Github Pages : https://extra182.vlsm.org/step/GitHubPages.html
 4. Quick and Easy GPG Cheatsheet : http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/
 5. FUSE Tutorial : https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/html/index.html
