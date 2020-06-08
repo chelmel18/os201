@@ -1,3 +1,7 @@
+---
+permalink: /URLs/
+---
+
 ## Kumpulan URL Untuk Belajar Sistem Operasi
 
 Berikut adalah link yang dapat digunakan untuk mempelajari Sistem Operasi :
